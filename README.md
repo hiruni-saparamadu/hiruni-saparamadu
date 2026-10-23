@@ -88,7 +88,7 @@
 
 ## 📌 Featured Projects
 
-### 🌬️ Smart Breeze — AI + IoT Air Conditioning System
+### 🌬️ Smart Breeze - AI + IoT Air Conditioning System
 
 An intelligent air conditioning solution that combines machine learning, IoT, and computer vision to optimize energy efficiency and comfort.
 
@@ -146,18 +146,18 @@ A recommendation engine that generates personalized movie suggestions based on u
 
 ## 🏆 Achievements & Certifications
 
-- 🥇 Merit Award — DATATHON Inter-University Competition, Codefest 2023, SLIIT.
-- 📜 Python for Beginners — University of Moratuwa.
-- 📊 Data Analytics Essentials — Cisco Networking Academy.
-- 📈 Data Visualization with Power BI — Great Learning Academy.
-- 📉 Data Visualization with Tableau — Great Learning Academy.
-- 🤖 TensorFlow with Python — Great Learning Academy.
+- 🥇 Merit Award - DATATHON Inter-University Competition, Codefest 2023, SLIIT.
+- 📜 Python for Beginners - University of Moratuwa.
+- 📊 Data Analytics Essentials - Cisco Networking Academy.
+- 📈 Data Visualization with Power BI - Great Learning Academy.
+- 📉 Data Visualization with Tableau - Great Learning Academy.
+- 🤖 TensorFlow with Python - Great Learning Academy.
 
 ---
 
 ## 🎓 Education
 
-**BSc (Hons) in Information Technology — Specialization in Data Science**  
+**BSc (Hons) in Information Technology - Specialization in Data Science**  
 Sri Lanka Institute of Information Technology (SLIIT) | 2021–2024
 
 Relevant Modules: Machine Learning & Optimization, Data Mining, Statistical Modeling, Business Intelligence, Big Data & Cloud, Information Retrieval, Visual Analytics, Database Systems, and Information Security Analytics.
@@ -168,7 +168,7 @@ Relevant Modules: Machine Learning & Optimization, Data Mining, Statistical Mode
 
 **An Integrated Framework for Self-Adjusting Temperature, Humidity, and Airflow Direction in Smart Air Conditioning Systems**
 
-📖 Published through IEEE — 9th ICTIR 2024.
+📖 Published through IEEE - 9th ICTIR 2024.
 
 ---
 
